@@ -2,7 +2,7 @@ const restartBtn = document.getElementById('restart');
 const prevBtn = document.getElementById('prev'); 
 const nextBtn = document.getElementById('next');
 const submitBtn = document.getElementById('submit');
-const trueBtn = document.getElementById('true');
+const trueBtn = document.getElementById('True');
 const falseBtn = document.getElementById('False');
 const userScore = document.getElementById('user-score');
 const questionText = document.getElementById('question-text');
@@ -38,6 +38,7 @@ let questions = [
 
 ]
 
+
 restartBtn.addEventListener('click' ,restart);
 prevBtn.addEventListener('click' ,prev); 
 nextBtn.addEventListener('click' ,next);
@@ -57,7 +58,7 @@ function beginQuiz(){
         userScore.innerHTML = score;
         if(currentQuestion<2){
              nextBtn();
-        }
+        }1
     } 
     falseBtn.innerHTML = questions[currentQuestion].answers[1].option;
     falseBtn.onclick = () => {
