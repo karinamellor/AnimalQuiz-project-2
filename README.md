@@ -1,4 +1,10 @@
-User Experience (UX)
+## Animal Quiz
+
+
+![animalquiz](https://user-images.githubusercontent.com/74268139/229287653-b9d96162-84e5-4843-be5f-1ce6c428cf17.jpg)
+
+#  User Experience (UX)
+
 The website is a quiz whose main purpose is to entertain the user, who can test their knowledge about
 animals’ facts and also learn something new. The quiz is interactive and colourful to keep the attention
 high and not to bore the users. It contains 10 questions where the user can select true or false and at the end
@@ -8,35 +14,35 @@ Users expectations
  As a user, I expect the quiz to keep me entertained, help me test my knowledge and satisfy my
 curiosity about animals.
 
-** Design**
-o Colour Scheme
+
+ #   Colour Scheme
 
 The main colour is green, to recall nature. The other colours are a very light
 beige, so that it’s not too heavy on the eye, and a bright orange for the buttons for
 the users to select.
 
-o Typography
+1. o Typography
  The font used is Poppin’, a simple font with roundish letters, in order to keep the
 mood of the quiz simple and playful.
 
-o Imagery
+2. o Imagery
 The background is a green grass pattern designed to recall nature.
  The questions are contained into a container and also the possible answers are
 contained into clickable buttons.
 
-Wireframes
+3. Wireframes
 o Home Page Wireframe -
 o Mobile Wireframe - 
 
-Features
+4. Features
  Responsive on all device sizes
  Interactive elements
 
-Technologies Used
+5. Technologies Used
 Languages Used
- HTML5
-CSS3
- Javascript
+-  HTML5
+-  CSS3
+ - Javascript
 Frameworks, Libraries &amp; Programs Used
 1. Hover.css:
 o Hover.css was used on the Social Media icons in the footer to add the float transition
@@ -53,7 +59,8 @@ Push to GitHub.
 4. GitHub:
 o GitHub is used to store the projects code after being pushed from Git.
 
-Testing
+# Testing
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the
 project to ensure there were no syntax errors in the project.
  W3C Markup Validator - Results
