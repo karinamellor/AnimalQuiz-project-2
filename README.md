@@ -71,9 +71,9 @@ o GitHub is used to store the projects code after being pushed from Git.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the
 project to ensure there were no syntax errors in the project.
- - W3C Markup Validator - Results
- - W3C CSS Validator - Results
- - Javascript Validator - 
+ - W3C Markup Validator 
+ - W3C CSS Validator  
+ - Javascript Validator 
 
 Testing User Stories from User Experience (UX) Section
 First Time Visitor Goals
@@ -106,7 +106,7 @@ bugs and/or user experience issues.
 
 # Known Bugs
 
-In the 3th question the app seens not working propely.Also the button fot the right question is not wotking.
+In the 3th question the app seens not working properly.Also the button fot the right question is not wotking.
 
 # Deployment
   To create a live website Animal Quiz, deployment was done using github pages. The step by step process is shown below:
