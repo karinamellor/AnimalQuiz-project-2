@@ -3,6 +3,8 @@
 
 ![animalquiz](https://user-images.githubusercontent.com/74268139/229287653-b9d96162-84e5-4843-be5f-1ce6c428cf17.jpg)
 
+The view of the deployment https://karinamellor.github.io/AnimalQuiz-project-2/
+
 #  User Experience (UX)
 
 The website is a quiz whose main purpose is to entertain the user, who can test their knowledge about
@@ -28,6 +30,7 @@ the users to select.
 1. o Typography
  The font used is Poppin’, a simple font with roundish letters, in order to keep the
 mood of the quiz simple and playful.
+   - https://fonts.google.com/specimen/Poppins
 
 2. o Imagery
 The background is a green grass pattern designed to recall nature.
@@ -70,7 +73,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 project to ensure there were no syntax errors in the project.
  - W3C Markup Validator - Results
  - W3C CSS Validator - Results
- - Javascript Validator
+ - Javascript Validator - 
 
 Testing User Stories from User Experience (UX) Section
 First Time Visitor Goals
@@ -96,16 +99,14 @@ with the final score.
 
 The Website was tested on Safari, Google Chrome, Internet Explorer, Microsoft Edge and Safari
 browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhoneXR and iPhone
-10.
-Friends and family members were asked to review the site and documentation to point out any
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhoneXR and iPhone
+
+- Friends and family members were asked to review the site and documentation to point out any
 bugs and/or user experience issues.
-Known Bugs
-On some mobile devices the Hero Image pushes the size of screen out more than any of the other
-content on the page.
-o A white gap can be seen to the right of the footer and navigation bar as a result.
-On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when
-hovering over them.
+
+# Known Bugs
+
+In the 3th question the app seens not working propely.Also the button fot the right question is not wotking.
 
 # Deployment
 
@@ -136,9 +137,9 @@ Making a Local Clone
 5. Change the current working directory to the location where you want the cloned directory to be
 made.
 6. Type git clone, and then paste the URL you copied in Step 3.
- git clone https://github.com/karinamellor/YOUR-REPOSITORY
+ git clone https://github.com/karinamellor?tab=repositories
 7. Press Enter. Your local clone will be created.
-$ git clone https://github.com/karinamello/YOUR-REPOSITORY
+$ git clone https://github.com/karinamellor?tab=repositories
 &gt; Cloning into `CI-Clone`...
 &gt; remote: Counting objects: 10, done.
 &gt; remote: Compressing objects: 100% (8/8), done.
@@ -147,7 +148,9 @@ $ git clone https://github.com/karinamello/YOUR-REPOSITORY
 
 Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above
 process.
-Credits
+
+# Credits
+
 Code
 The full-screen grass image code came from Google.
  Mozilla developer
@@ -160,5 +163,5 @@ All content was written by the developer.
 # Media
  All Images were copyright free and searched in Google.
 Acknowledgements
- My Mentor for constant and helpful feedback.
+ My Mentor for constant and helpful feedback and my partner Saviana.
  Tutor support at Code Institute for their support.

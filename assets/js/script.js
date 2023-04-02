@@ -1,6 +1,3 @@
-
-
-
 const restartBtn = document.getElementById('restart');
 const prevBtn = document.getElementById('prev'); 
 const nextBtn = document.getElementById('next');
@@ -34,10 +31,10 @@ let questions = [
     },
     { 
 
-        question: "The A?",
+        question: "Although it is rare, it is possible to domesticate a fox.",
         answers: [
-              {option:"No!",answer:true},
-              {option:"Yes!",answer:false}
+              {option:"No!",answer:false},
+              {option:"Yes!",answer:true}
         ]
     },
     {
@@ -50,11 +47,31 @@ let questions = [
         ]
     },
     {
-        question: "The Anaconda kills its preys with venon?",
+        question: "Sharks have their babies by laying eggs.",
         answers: [
-         {option:"No!",answer:true},
-         {option:"Yes!",answer:false}
+          {option:"No!",answer:true},
+          {option:"Yes!",answer:false}
+        ]      
 
+         
+    },
+    {
+        question: "Sloths eat only the leaves on the tree they were born on.",
+        answers: [
+            {option:"No!",answer:false},
+            {option:"Yes!",answer:true}
+        ]
+         
+    },
+    {
+        question: "Killer whales have a matriarchal society system, the pod is ruled by the oldest female.",
+        answers: [
+            {option:"No!",answer:false},
+            {option:"Yes!",answer:true}
+        ]    
+            
+    }
+    
 
 
 
