@@ -109,6 +109,17 @@ bugs and/or user experience issues.
 In the 3th question the app seens not working propely.Also the button fot the right question is not wotking.
 
 # Deployment
+  To create a live website Animal Quiz, deployment was done using github pages. The step by step process is shown below:
+
+    Log in or Sign up to github.
+    Find the repository for this project, Animal Quiz Quiz.(Can be found under top repositories on the left hand side)
+    Click on Settings link that is displayed above and left to the green gitpod button.
+    Click on Pages link under code and automation in the navigation bar on the left hand side.
+    Under Build and Deployment, click on the branch drop down menu and select main and make sure the select folder drop down is selected on root.
+    Now click save and wait a few minutes.
+    Refresh the page, and the url for your live website will be shown under the heading, GitHub Pages.
+    Deployment is now complete.
+
 
 # GitHub Pages
 
@@ -146,10 +157,12 @@ $ git clone https://github.com/karinamellor?tab=repositories
 &gt; remove: Total 10 (delta 1), reused 10 (delta 1)
 &gt; Unpacking objects: 100% (10/10), done.
 
-Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above
-process.
 
 # Credits
+   - https://stackoverflow.com/
+   - Github
+   - Code Institute
+   - Youtube
 
 Code
 The full-screen grass image code came from Google.
