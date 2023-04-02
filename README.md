@@ -10,8 +10,8 @@ animals’ facts and also learn something new. The quiz is interactive and colou
 high and not to bore the users. It contains 10 questions where the user can select true or false and at the end
 there is a final score to see how much knowledge they have.
 Users expectations
- As a user, I expect to find a website that is easy to navigate and intuitive.
- As a user, I expect the quiz to keep me entertained, help me test my knowledge and satisfy my
+As a user, I expect to find a website that is easy to navigate and intuitive.
+ As a user, I expect the quiz to keep me entertained, help me test my knowledge and satisfy my
 curiosity about animals.
 
 
@@ -20,6 +20,10 @@ curiosity about animals.
 The main colour is green, to recall nature. The other colours are a very light
 beige, so that it’s not too heavy on the eye, and a bright orange for the buttons for
 the users to select.
+    - `#f6490f`
+    - `#f27813`
+    - `#ef9614`
+
 
 1. o Typography
  The font used is Poppin’, a simple font with roundish letters, in order to keep the
@@ -42,7 +46,8 @@ o Mobile Wireframe - 
 Languages Used
 -  HTML5
 -  CSS3
- - Javascript
+- Javascript
+
 Frameworks, Libraries &amp; Programs Used
 1. Hover.css:
 o Hover.css was used on the Social Media icons in the footer to add the float transition
@@ -63,9 +68,10 @@ o GitHub is used to store the projects code after being pushed from Git.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the
 project to ensure there were no syntax errors in the project.
- W3C Markup Validator - Results
- W3C CSS Validator - Results
- Javascript Validator
+ - W3C Markup Validator - Results
+ - W3C CSS Validator - Results
+ - Javascript Validator
+
 Testing User Stories from User Experience (UX) Section
 First Time Visitor Goals
 i. As a First Time Visitor, I want to easily understand the main purpose of the site.
@@ -86,7 +92,8 @@ pattern is the same until the end of the quiz
 d. At the end of the quiz, the user will receive a Congratulations message together
 with the final score.
 
-Further Testing
+# Further Testing
+
 The Website was tested on Safari, Google Chrome, Internet Explorer, Microsoft Edge and Safari
 browsers.
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhoneXR and iPhone
@@ -99,8 +106,11 @@ content on the page.
 o A white gap can be seen to the right of the footer and navigation bar as a result.
 On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when
 hovering over them.
-Deployment
-GitHub Pages
+
+# Deployment
+
+# GitHub Pages
+
 The project was deployed to GitHub Pages using the following steps...
 1. Log in to GitHub and locate the GitHub Repository
 2. At the top of the Repository (not top of page), locate the &quot;Settings&quot; Button on the menu.
@@ -134,6 +144,7 @@ $ git clone https://github.com/karinamello/YOUR-REPOSITORY
 &gt; remote: Compressing objects: 100% (8/8), done.
 &gt; remove: Total 10 (delta 1), reused 10 (delta 1)
 &gt; Unpacking objects: 100% (10/10), done.
+
 Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above
 process.
 Credits
@@ -142,9 +153,11 @@ The full-screen grass image code came from Google.
  Mozilla developer
  MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to
 match an Irish phone number layout to ensure correct validation. Tutorial Found Here
-Content
- All content was written by the developer.
-Media
+
+# Content
+All content was written by the developer.
+
+# Media
  All Images were copyright free and searched in Google.
 Acknowledgements
  My Mentor for constant and helpful feedback.

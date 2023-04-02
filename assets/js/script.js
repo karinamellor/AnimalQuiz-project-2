@@ -13,6 +13,8 @@ const questionText = document.getElementById('question-text');
 let currentQuestion = 0;
 var score = 0;
 
+/* Questions */
+
 let questions = [
     {
         question: "A Cheetah is capable of running at 80 to 98 km/h?",
@@ -32,12 +34,30 @@ let questions = [
     },
     { 
 
-        question: "The Anaconda kills its preys with venon?",
+        question: "The A?",
         answers: [
               {option:"No!",answer:true},
               {option:"Yes!",answer:false}
         ]
-    }
+    },
+    {
+        
+    
+         question: "The Anaconda kills its preys with venon?",
+         answers: [
+          {option:"No!",answer:true},
+          {option:"Yes!",answer:false}
+        ]
+    },
+    {
+        question: "The Anaconda kills its preys with venon?",
+        answers: [
+         {option:"No!",answer:true},
+         {option:"Yes!",answer:false}
+
+
+
+
 
 ]
 
@@ -46,6 +66,8 @@ restartBtn.addEventListener('click' ,restart);
 prevBtn.addEventListener('click' ,prev); 
 nextBtn.addEventListener('click' ,next);
 submitBtn.addEventListener('click' ,submit);
+
+/* Begin Quiz */
 
 function beginQuiz(){
     currentQuestion =0;

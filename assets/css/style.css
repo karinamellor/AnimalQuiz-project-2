@@ -8,7 +8,7 @@
     
 
 }
-
+/* Body */
 body{
     background: linear-gradient(to right, #f6490f, #f27813,#ef9614 );
 	background-repeat: no-repeat;
@@ -56,6 +56,7 @@ body{
     flex-direction: column;
 }
 
+/* Buttons */
 .btn{
    font-size: large;
    font-weight: bold;
