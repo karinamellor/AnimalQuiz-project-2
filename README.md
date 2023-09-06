@@ -1,7 +1,7 @@
 ## Animal Quiz
 
 
-![animalquiz](https://user-images.githubusercontent.com/74268139/229287653-b9d96162-84e5-4843-be5f-1ce6c428cf17.jpg)
+![animalquiz](https://github.com/karinamellor/AnimalQuiz-project-2/assets/74268139/2b3dab31-0ac5-4fba-8329-32815beb35ec)
 
 The view of the deployment https://karinamellor.github.io/AnimalQuiz-project-2/
 
