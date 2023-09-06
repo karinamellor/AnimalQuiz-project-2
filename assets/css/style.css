@@ -21,6 +21,21 @@ body{
     background-size: cover;
 }
 
+/* styles.css */
+.intro-container {
+    text-align: center;
+    background-color: #ef9614;
+    padding: 20px;
+}
+
+
+#start-quiz {
+     color: #f6490f; 
+
+
+}
+
+
 .container{
     width: 80vw;
 	max-width: 80%;

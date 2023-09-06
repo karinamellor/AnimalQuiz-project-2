@@ -6,6 +6,7 @@ const trueBtn = document.getElementById('True');
 const falseBtn = document.getElementById('False');
 const userScore = document.getElementById('user-score');
 const questionText = document.getElementById('question-text');
+var startButton = document.getElementById("start-quiz");
 
 let currentQuestion = 0;
 var score = 0;
@@ -70,13 +71,15 @@ let questions = [
             {option:"Yes!",answer:true}
         ]    
             
-    }
+    },
+
     
 
 
 
 
 ]
+
 
 
 restartBtn.addEventListener('click' ,restart);
