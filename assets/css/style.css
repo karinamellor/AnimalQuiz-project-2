@@ -34,7 +34,6 @@ body{
 
 }
 
-
 .container{
     width: 80vw;
 	max-width: 80%;
@@ -102,3 +101,18 @@ body{
 	display: none;
 } 
 
+@media screen and (max-width: 768px) {
+    .intro-container {
+        padding: 10px; 
+     
+     h1 {
+         font-size: 24px; 
+     
+     p {
+         font-size: 16px; 
+     
+     #start-quiz {
+         padding: 10px 20px; 
+         font-size: 18px; 
+     }
+ }
