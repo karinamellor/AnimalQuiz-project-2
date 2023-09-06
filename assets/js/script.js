@@ -89,6 +89,11 @@ submitBtn.addEventListener('click' ,submit);
 
 /* Begin Quiz */
 
+
+startButton.addEventListener("click", function() {
+    alert("Quiz started!");
+});
+
 function beginQuiz(){
     currentQuestion =0;
     questionText.innerHTML = questions[currentQuestion].question;
